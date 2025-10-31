@@ -1,0 +1,5 @@
+none|Bez Kouzla
+lure|S Kouzlem|Vábení
+anger|S Kouzlem|Vztek
+swap|S Kouzlem|Záměna
+hard|S Kouzlem|Tvrdost

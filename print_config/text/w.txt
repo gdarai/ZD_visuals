@@ -1,0 +1,10 @@
+06|none|haiku|bomb|
+14|none|haiku|spear|
+52|none|haiku|sword|
+62|none|haiku|hammer|
+73|none|haiku|bow|
+07|hard|hard|spear|hard
+28|swap|swap|hammer|swap
+49|lure|lure|sword|lure
+70|anger|anger|bow|anger
+

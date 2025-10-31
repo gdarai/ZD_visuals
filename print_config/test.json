@@ -1,0 +1,110 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "img_txt"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out"
+  },
+  {
+    "task": "FONT",
+    "name": "Weapon_Title",
+    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "fill": "#f1c100",
+    "pointSize": 62,
+    "rowHeight": 100
+  },
+  {
+    "task": "FONT",
+    "name": "Weapon_Type",
+    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "fill": "#d39be6",
+    "pointSize": 61,
+    "rowHeight": 75
+  },
+  {
+    "task": "FONT",
+    "name": "Weapon_Text",
+    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "fill": "#cacaca",
+    "pointSize": 49,
+    "rowHeight": 80
+  },
+  {
+    "task": "BUILD",
+    "name": "WeaponCard",
+    "elements": [
+      {
+        "source": "wpn/[0].png",
+        "position": "+376+252"
+      },
+      {
+        "source": "ico/Ico_w300_[3].png",
+        "position": "+159+412"
+      },
+      {
+        "source": "ico/Ico_fct_[3].png",
+        "position": "+77+80"
+      },
+      {
+        "source": "ico/Ico_spell_[4].png",
+        "position": "+77+243"
+      },
+      {
+        "source": "img_txt/w_tit_[0].png",
+        "position": "+281+78"
+      },
+      {
+        "source": "img_txt/w_mg_[1].png",
+        "position": "+73+524"
+      },
+      {
+        "source": "img_txt/w_txt_[2].png",
+        "position": "+73+633"
+      },
+      {
+        "source": "card/Weapon_Shadow.png",
+        "position": "+0+0"
+      }
+    ]
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/w_titles.txt",
+    "target": "img_txt/w_tit",
+    "font": "Weapon_Title",
+    "size": "466x233 xc:none",
+    "gravity": "West",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/w_magic.txt",
+    "target": "img_txt/w_mg",
+    "font": "Weapon_Type",
+    "size": "460x150 xc:none",
+    "gravity": "North",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/w_texts.txt",
+    "target": "img_txt/w_txt",
+    "font": "Weapon_Text",
+    "size": "460x320 xc:none",
+    "gravity": "North",
+    "firstIsName": true
+  },
+  {
+    "task": "CARDS",
+    "source": "text/w.txt",
+    "base": "card/Weapon_BG.png",
+    "target": "out/card",
+    "build": "WeaponCard"
+  }
+]

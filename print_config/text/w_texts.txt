@@ -1,0 +1,6 @@
+haiku|Chladný spánek|Plamen ticha|Krev i sláva|Touha dýchá
+hard||Po prvním|použití|nezahoď
+anger||Zaútoč hned|i druhou|zbraní
+swap||Prohoď se|s jiným|hdrinou
+lure||Přilákej|obludu z|jiného pole
+
