@@ -14,26 +14,34 @@
   {
     "task": "FONT",
     "name": "Weapon_Title",
-    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#f1c100",
-    "pointSize": 62,
-    "rowHeight": 100
+    "pointSize": 95,
+    "rowHeight": 95
   },
   {
     "task": "FONT",
     "name": "Weapon_Type",
-    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#d39be6",
-    "pointSize": 61,
+    "pointSize": 85,
     "rowHeight": 75
   },
   {
     "task": "FONT",
     "name": "Weapon_Text",
-    "source": "usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#cacaca",
-    "pointSize": 49,
+    "pointSize": 60,
     "rowHeight": 80
+  },
+  {
+    "task": "FONT",
+    "name": "Weapon_ID",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#747474",
+    "pointSize": 65,
+    "rowHeight": 90
   },
   {
     "task": "BUILD",
@@ -68,6 +76,10 @@
         "position": "+73+633"
       },
       {
+        "source": "img_txt/w_id_[0].png",
+        "position": "+615+957"
+      },
+      {
         "source": "card/Weapon_Shadow.png",
         "position": "+0+0"
       }
@@ -78,8 +90,17 @@
     "source": "text/w_titles.txt",
     "target": "img_txt/w_tit",
     "font": "Weapon_Title",
-    "size": "466x233 xc:none",
+    "size": "466x190 xc:none",
     "gravity": "West",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/w_IDs.txt",
+    "target": "img_txt/w_id",
+    "font": "Weapon_ID",
+    "size": "190x86 xc:none",
+    "gravity": "Center",
     "firstIsName": true
   },
   {
@@ -102,9 +123,11 @@
   },
   {
     "task": "CARDS",
+    "printLimit": -1,
     "source": "text/w.txt",
     "base": "card/Weapon_BG.png",
     "target": "out/card",
-    "build": "WeaponCard"
+    "build": "WeaponCard",
+    "crop": "750x1050+36+36"
   }
 ]
