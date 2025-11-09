@@ -1,0 +1,44 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out_6"
+  },
+  {
+    "task": "BUILD",
+    "name": "6_onRow",
+    "elements": [
+      {
+        "source": "out/card_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "out/card_[1].png",
+        "position": "+750+0"
+      },
+      {
+        "source": "out/card_[2].png",
+        "position": "+1500+0"
+      },
+      {
+        "source": "out/card_[3].png",
+        "position": "+2250+0"
+      },
+      {
+        "source": "out/card_[4].png",
+        "position": "+3000+0"
+      }
+    ]
+  },
+ {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/6_onrow.txt",
+    "base": "card/6row_base.png",
+    "target": "out_6/collector",
+    "build": "6_onRow"
+  }
+]

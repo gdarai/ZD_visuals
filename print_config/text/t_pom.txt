@@ -1,0 +1,25 @@
+AA|Mej trofeje 2 zvirat
+UU|Mej trofeje 2 nemrtvych
+HH|Mej trofeje 2 lidi
+DD|Mej trofeje 2 demonu
+AUH|Mej_trofeje ale_ne demona
+UHD|Mej_trofeje ale_ne zvire
+AHD|Mej_trofeje ale_ne nemrtve
+AUD|Mej_trofeje ale_ne cloveka
+AxA|Stuj mezi 2 zviraty
+UxU|Stuj mezi 2 nemrtvymi
+HxH|Stuj mezi 2 lidmi
+DxD|Stuj mezi 2 demony
+xAA|Stuj v rade dvou zvirat
+xUU|Stuj v rade dvou nemrtvych
+xHH|Stuj v rade dvou lidi
+xDD|Stuj v rade dvou demonu
+cxA|Stuj mezi taborem a zviretem
+cxU|Stuj mezi taborem a nemrtvym
+cxH|Stuj mezi taborem a lidmi
+cxD|Stuj mezi taborem a demonem
+xAr|Zazen zvire ke skale
+xUr|Zazen nemrtve ke skale
+xHr|Zazen cloveka ke skale
+xDr|Zazen demona ke skale
+

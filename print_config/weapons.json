@@ -124,7 +124,7 @@
   {
     "task": "CARDS",
     "printLimit": -1,
-    "source": "text/w.txt",
+    "source": "text/w1.txt",
     "base": "card/Weapon_BG.png",
     "target": "out/card",
     "build": "WeaponCard",

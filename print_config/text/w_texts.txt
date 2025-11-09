@@ -1,4 +1,7 @@
 haiku|Chladný spánek|Plamen ticha|Krev i sláva|Touha dýchá
+h1|Ve tmě se rozzáří|krev hučí v kamenní|strach se zhmotnil|již není úkrytu.
+h2|Ledová záře|se roztančí na čepeli|smrt spí v ostří|jeden úder a konec.
+h3|Popraskaná čepel|žár v ní dýchá|v boji hořím jak oheň|v popel obrátím nepřátele.
 hard||Po prvním|použití|nezahoď
 anger||Zaútoč hned|i druhou|zbraní
 swap||Prohoď se|s jiným|hrdinou

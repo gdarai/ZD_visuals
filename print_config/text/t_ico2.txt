@@ -1,0 +1,4 @@
+AA|fct_spear|fct_spear
+UU|fct_hammer|fct_hammer
+HH|fct_sword|fct_sword
+DD|fct_bow|fct_bow

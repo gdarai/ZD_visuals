@@ -1,0 +1,5 @@
+AA|T1
+UU|T2
+AUH|T5
+UHD|T6
+

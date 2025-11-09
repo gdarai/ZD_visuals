@@ -1,0 +1,4 @@
+35|none|h1|hammer|
+53|none|h2|sword|
+07|none|h3|spear|
+

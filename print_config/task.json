@@ -1,0 +1,132 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "img_txt"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out"
+  },
+  {
+    "task": "FONT",
+    "name": "Task_Title",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#362a19",
+    "pointSize": 75,
+    "rowHeight": 75
+  },
+  {
+    "task": "FONT",
+    "name": "Task_Type",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#47331d",
+    "pointSize": 80,
+    "rowHeight": 80
+  },
+  {
+    "task": "FONT",
+    "name": "Task_Text",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#000000",
+    "pointSize": 60,
+    "rowHeight": 60
+  },
+  {
+    "task": "FONT",
+    "name": "Task_ID",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#d1c8af",
+    "pointSize": 65,
+    "rowHeight": 90
+  },
+  {
+    "task": "BUILD",
+    "name": "Combine2",
+    "elements": [
+      {
+        "source": "ico/Ico_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "ico/Ico_[1].png",
+        "position": "+170+0"
+      }
+    ]
+  },
+  {
+    "task": "BUILD",
+    "name": "Combine3",
+    "elements": [
+      {
+        "source": "ico/Ico_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "ico/Ico_[1].png",
+        "position": "+170+0"
+      },
+      {
+        "source": "ico/Ico_[2].png",
+        "position": "+340+0"
+      }
+    ]
+  },
+  {
+    "task": "CARDS",
+    "printLimit": 2,
+    "source": "text/t_ico2.txt",
+    "base": "330x160",
+    "target": "img_txt/ico",
+    "firstIsName": true,
+    "build": "Combine2"
+  },
+  {
+    "task": "CARDS",
+    "printLimit": 2,
+    "source": "text/t_ico3.txt",
+    "base": "500x160",
+    "target": "img_txt/ico",
+    "firstIsName": true,
+    "build": "Combine3"
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/t_titles.txt",
+    "target": "img_txt/t_tit",
+    "font": "Task_Title",
+    "size": "690x155 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/t_types.txt",
+    "target": "img_txt/t_typ",
+    "font": "Task_Type",
+    "size": "690x80 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/t_IDs.txt",
+    "target": "img_txt/t_id",
+    "font": "Task_ID",
+    "size": "190x86 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/t_texts.txt",
+    "target": "img_txt/w_txt",
+    "font": "Task_Text",
+    "size": "690x176 xc:none",
+    "gravity": "North",
+    "firstIsName": true
+  }
+]
