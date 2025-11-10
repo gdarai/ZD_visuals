@@ -1,0 +1,6 @@
+obchod@ok-karton.cz
+
+Dilek mapy je 4,5cm×4,5cm
+(bleed 36px na kazdou stranu, safe je pak dalsich 30px)
+Celkový rozměr s bleedem: 603×603px
+Bez bleedu: 531×531px
