@@ -1,3 +1,7 @@
+cxA|spec_town|spec_self|fct_spear
+cxU|spec_town|spec_self|fct_hammer
+cxH|spec_town|spec_self|fct_sword
+cxD|spec_town|spec_self|fct_bow
 AUH|fct_spear|fct_hammer|fct_sword
 UHD|fct_hammer|fct_sword|fct_bow
 AHD|fct_spear|fct_sword|fct_bow
@@ -10,10 +14,6 @@ xAA|spec_self|fct_spear|fct_spear
 xUU|spec_self|fct_hammer|fct_hammer
 xHH|spec_self|fct_sword|fct_sword
 xDD|spec_self|fct_bow|fct_bow
-cxA|spec_town|spec_self|fct_spear
-cxU|spec_town|spec_self|fct_hammer
-cxH|spec_town|spec_self|fct_sword
-cxD|spec_town|spec_self|fct_bow
 xAr|spec_self|fct_spear|spec_rock
 xUr|spec_self|fct_hammer|spec_rock
 xHr|spec_self|fct_sword|spec_rock

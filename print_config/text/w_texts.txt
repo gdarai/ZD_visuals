@@ -1,4 +1,4 @@
-haiku|Chladný spánek|Plamen ticha|Krev i sláva|Touha dýchá
+haiku|Chladný spánek,|plamen ticha.|Krev i sláva,|touha dýchá.
 h1|Ve tmě se rozzáří|krev hučí v kamenní|strach se zhmotnil|již není úkrytu.
 h2|Ledová záře|se roztančí na čepeli|smrt spí v ostří|jeden úder a konec.
 h3|Popraskaná čepel|žár v ní dýchá|v boji hořím jak oheň|v popel obrátím nepřátele.
@@ -7,4 +7,18 @@ anger||Zaútoč hned|i druhou|zbraní
 swap||Prohoď se|s jiným|hrdinou
 lure||Přilákej|obludu z|jiného pole
 steal||Zbraň si vem|z ruky hráče
+haiku_02|Blesky na oceli,|nebe se trhá,|hory se řítí,|bohové mlčí.
+haiku_03|Krev na kameni,|světlo se třese,|vítr ať šeptá,|do noci se směji.
+haiku_04|Ledový vítr,|šíp mizí v mlze,|mraky z oceli,|nebe rozetnou blesky.
+haiku_TkalecStinu|Runy spletené z ticha,|rudé jiskry hoří,|jen stíny a tvůj dech,|v krvi je vše psáno.
+haiku_PlanouciLed|Plamen líbá mráz,|žár v ledu spí,|úder tříští svět,|čas ztrácí vládu.
+haiku_NebeskyStrazce|Zlaté runy rozzáří se,|meč nese v srdci|moudrost hvězdy,|věčný ochránce nespí.
+haiku_34|Zaplane rudé světlo,|ocel se napije krve,|do tmy se zasměji,|nad nocí přebírám vládu.
+haiku_PopelavyTesak|Popraskaná čepel,|žár v ní dýchá,|v boji hořím jak oheň,|v popel obrátím nepřátele.
+haiku_HnevBoure|Blesky na tětivě,|z ticha se snese zkáza,|jak bouře zuřím,|přesný a nemilosrdný.
+haiku_StinovyKovar|Opál a starodávné runy,|žár v oceli,|síla hor dřímá,|v prach vše promění.
+haiku_13|Led v oceli,|stíny tančí noci,|záře protne tmu,|a čas se zastaví.
+haiku_72|Ektoplazma se zhmotní,|tětiva šeptá jména,|duše trnou strachem,|jejich konec se blíží.
+haiku_53|Ledová záře,|se roztančí na čepeli,|smrt spí v ostří,|jeden úder přinese konec.
+haiku_35|Ve tmě se rozzáří,|krev hučí v kameni,|strach se zhmotní,|přede mnou není úkrytu.
 

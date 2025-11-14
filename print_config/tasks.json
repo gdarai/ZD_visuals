@@ -30,9 +30,9 @@
   {
     "task": "FONT",
     "name": "Task_Text",
-    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
     "fill": "#000000",
-    "pointSize": 60,
+    "pointSize": 50,
     "rowHeight": 60
   },
   {
@@ -98,11 +98,11 @@
       },
       {
         "source": "img_txt/t_txt_[0].png",
-        "position": "+66+827"
+        "position": "+66+800"
       },
       {
         "source": "img_txt/t_id_[0].png",
-        "position": "+615+957"
+        "position": "+610+970"
       },
       {
         "source": "card/Task_Shadow.png",
@@ -112,7 +112,7 @@
   },
   {
     "task": "CARDS",
-    "printLimit": 2,
+    "printLimit": -1,
     "source": "text/t_ico2.txt",
     "base": "330x160",
     "target": "img_txt/ico",
@@ -121,7 +121,7 @@
   },
   {
     "task": "CARDS",
-    "printLimit": 2,
+    "printLimit": -1,
     "source": "text/t_ico3.txt",
     "base": "500x160",
     "target": "img_txt/ico",
@@ -166,19 +166,11 @@
   },
   {
     "task": "CARDS",
-    "printLimit": 1,
+    "printLimit": -1,
     "source": "text/t.txt",
     "base": "card/Task_BG.png",
     "target": "out/card_cut",
     "build": "TaskCard",
     "crop": "750x1050+36+36"
-  },
-  {
-    "task": "CARDS",
-    "printLimit": 1,
-    "source": "text/t.txt",
-    "base": "card/Task_BG_g.png",
-    "target": "out/card",
-    "build": "TaskCard"
   }
 ]

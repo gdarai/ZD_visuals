@@ -30,9 +30,9 @@
   {
     "task": "FONT",
     "name": "Weapon_Text",
-    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#cacaca",
-    "pointSize": 50,
+    "pointSize": 60,
     "rowHeight": 80
   },
   {
@@ -127,6 +127,7 @@
     "source": "text/w1.txt",
     "base": "card/Weapon_BG.png",
     "target": "out/card",
-    "build": "WeaponCard"
+    "build": "WeaponCard",
+    "crop": "750x1050+36+36"
   }
 ]

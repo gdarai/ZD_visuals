@@ -1,4 +1,9 @@
-35|none|h1|hammer|
-53|none|h2|sword|
-07|none|h3|spear|
+72|none|haiku_72|bow|
+53|none|haiku_53|sword|
+02|none|haiku_02|hammer|
+03|none|haiku_03|sword|
+04|none|haiku_04|bow|
+13|none|haiku_13|spear|
+34|none|haiku_34|hammer|
+35|none|haiku_35|hammer|
 

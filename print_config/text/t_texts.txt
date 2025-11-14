@@ -1,5 +1,20 @@
 AA|Můj sál trofejí|jim vyrazí dech|
 UU|Přede mnou sami|zalézají zpátky|do hrobů
+HH|Meč můj v pekelném ohni se potí,|čaroděje smrtí jednou provždy|zkrotí.
+DD|Mečem píši znaky strasti,|démoni padají do pasti,|mé síly v noci vzrůstají.
 AUH|To že je někdo démon|neznamená že na něj|vyrazím se zbraní
 UHD|Lov je pro lidi|já jsem hrdina,|ne lovec
-
+AHD|Knihy šeptají dávné příběhy,|rok za rokem tiše vypráví,|ztraceny ve stínech temnoty.
+AUD|S mečem v ruce, v srdci plamen,|ochráním všechny, kdož se bojí,|před zlým hněvem, před tmou v rámen.
+AxA|Kroky s medvědem v horách duní,|vedu smečku tiše zasněženou,|síla v nás hluboko dřímá.
+UxU|Stíny padnou, duchové prchnou,|přináším konečnou zkázu všude,|kde nohy mé vpřed se pohnou.
+HxH|Meč skřípe v tichu kouzel noci,|jsem ochránce, věčný strážce,|svatyně s tajemnou mocí.
+DxD|Následuj mě při plamenech noci,|jsem vůdce temného hněvu,|a vládnu skrytou mocí.
+xAA|Kopí se zableskne, rudý drak padá,|hrdina čelí svůj osud sám,|proti smrti se odhodlaně vzpírá.
+xUU|Ohnivým lukem k srdci zasáhnu,|lich padá, krajina v tichu spí,|nocí se snáší padající stíny.
+xHH|Mečem protnu temnou noc,|čaroděj už nemá žádnou moc,|vítězím s úsvitem v očích.
+xDD|Láva i oheň ustoupí mému kroku,|s palcátem se postavím sám,|všemu zlu i každému soku.
+cxA|Vlci prchají, tábor v klidu spí,|ochrana pevná v noci i dni,|noc ustupuje, když vstávám z mlhy.
+cxU|Kladivo bije do ticha noci,|smrt mizí s ránem a světlem,|ve jménu světla vítězím nad mocí.
+cxH|Městská brána pevně stojí,|síla a magie v jedno se spojí,|město chrání mocné sliby.
+cxD|Kopím bránu zlu zavřu stůj co stůj,|démony snad zkrotím v žáru,|vítězství nese novou víru.

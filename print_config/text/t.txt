@@ -1,5 +1,21 @@
 AA|trofej
 UU|trofej
+HH|trofej
+DD|trofej
 AUH|trofej
 UHD|trofej
+AHD|trofej
+AUD|trofej
+AxA|mezi
+UxU|mezi
+HxH|mezi
+DxD|mezi
+xAA|rada
+xUU|rada
+xHH|rada
+xDD|rada
+cxA|tabor
+cxU|tabor
+cxH|tabor
+cxD|tabor
 
