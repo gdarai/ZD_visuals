@@ -18,4 +18,8 @@ cxA|T17
 cxU|T18
 cxH|T19
 cxD|T20
+xAr|T21
+xUr|T22
+xHr|T23
+xDr|T24
 

@@ -7,18 +7,31 @@ anger||Zaútoč hned|i druhou|zbraní
 swap||Prohoď se|s jiným|hrdinou
 lure||Přilákej|obludu z|jiného pole
 steal||Zbraň si vem|z ruky hráče
-haiku_02|Blesky na oceli,|nebe se trhá,|hory se řítí,|bohové mlčí.
-haiku_03|Krev na kameni,|světlo se třese,|vítr ať šeptá,|do noci se směji.
-haiku_04|Ledový vítr,|šíp mizí v mlze,|mraky z oceli,|nebe rozetnou blesky.
-haiku_TkalecStinu|Runy spletené z ticha,|rudé jiskry hoří,|jen stíny a tvůj dech,|v krvi je vše psáno.
-haiku_PlanouciLed|Plamen líbá mráz,|žár v ledu spí,|úder tříští svět,|čas ztrácí vládu.
-haiku_NebeskyStrazce|Zlaté runy rozzáří se,|meč nese v srdci|moudrost hvězdy,|věčný ochránce nespí.
-haiku_34|Zaplane rudé světlo,|ocel se napije krve,|do tmy se zasměji,|nad nocí přebírám vládu.
-haiku_PopelavyTesak|Popraskaná čepel,|žár v ní dýchá,|v boji hořím jak oheň,|v popel obrátím nepřátele.
-haiku_HnevBoure|Blesky na tětivě,|z ticha se snese zkáza,|jak bouře zuřím,|přesný a nemilosrdný.
-haiku_StinovyKovar|Opál a starodávné runy,|žár v oceli,|síla hor dřímá,|v prach vše promění.
-haiku_13|Led v oceli,|stíny tančí noci,|záře protne tmu,|a čas se zastaví.
-haiku_72|Ektoplazma se zhmotní,|tětiva šeptá jména,|duše trnou strachem,|jejich konec se blíží.
-haiku_53|Ledová záře,|se roztančí na čepeli,|smrt spí v ostří,|jeden úder přinese konec.
-haiku_35|Ve tmě se rozzáří,|krev hučí v kameni,|strach se zhmotní,|přede mnou není úkrytu.
+haiku_02|Blesky tančí po oceli,|nebe se trhá,|hory se hroutí,|bohové mlčí.
+haiku_03|Trn hledá srdce,|touží bodnout hlouběji,|rudý opar zastře zrak,|do noci se směji.
+haiku_04|Ledový vítr,|šíp mizí v mlze,|mraky z oceli|rozetnou blesky.
+haiku_23|Runy spletené z ticha,|zpečetěné na věčnost,|jen stíny a tvůj dech,|sám si píšu svůj osud.
+haiku_51|Plamen líbá mráz,|žár spí v ledu,|úder tříští svět,|čas ztrácí moc.
+haiku_63|Zlaté runy září,|meč v srdci nese|moudrost hvězd,|věčný ochránce bdí.
+haiku_34|Vzplane rudé světlo.|Luna se napije krve,|do tmy směle vkročim,|nad nocí teď vládnu.
+haiku_13|Led v oceli,|stíny tančí nocí,|záře roztrhne tmu,|a čas se zastaví.
+haiku_55|Černá ostrá čepel,|žár v ní dýchá,|v boji hořím jak oheň,|nepřátele obrátím v popel.
+haiku_74|Blesky v tětivě,|z ticha padá zkáza,|jako bouře zuřím,|přesný a nemilosrdný.
+haiku_42|Ocel a pradávné runy,|nesmírná je síla slov,|moudrost a umění války|vše v prach obrátí.
+haiku_72|Ektoplazma houstne,|tětiva šeptá jména,|duše trnou strachem,|neb jejich konec je tu.
+haiku_53|Ledová záře|tančí na čepeli,|smrt v ostří spí,|v jediném úderu konec.
+haiku_35|Ve tmě zazáří,|krev hučí v kameni,|strach se zhmotní,|přede mnou není úkrytu.
+haiku_52|Černé ostří šeptá,|potají sbírá sílu,|lebky tiše spí,|a duše křičí.
+haiku_32|Volám tě, stíne,|přines mi sílu.|Klid své duše|vykoupím krví.
+haiku_54|Ledový dech,|srdce ze zlata.|Když se odhalí,|krev mrzne strachem.
+haiku_71|Letím s větrem,|za mnou jen popel,|šíp je modlitba,|co pálí hříchy.
+haiku_44|Slyš ticho věků,|hlas bez ozvěny,|já volám prázdno|a ono mi odpoví. 
+haiku_05|Jiskra padlé hvězdy,|žár dýchá v kleci,|tmu prořízne světlo,|a nikdo neunikl.
+haiku_06|Křehký je osud,|když shoří naděje,|ticho se vytratí|a srdce se vzdá.
+haiku_25|Volání hlubin,|jsoucno se tříští,|život se láme,|a dál už jen mrtví.
+haiku_26|Smršť ohně a trnů,|nebe zadrží dech,|vítr rozsévá hněv,|pád je nevyhnutelný.
+haiku_65|Skrytý plameni,|jenž rozprostře dech,|rozsviť mou cestu,|ať skončí noc.
+haiku_45|Řetězy prasknou,|oheň se rozlije,|běsy se vyrojí,|popel vše pohltí.
+haiku_46|Sféra vězní bouři,|hněv držený na řetězu,|blesk změní se v plamen,|a smrt v tanci krouží.
+
 

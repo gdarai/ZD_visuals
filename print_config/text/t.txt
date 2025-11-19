@@ -18,4 +18,8 @@ cxA|tabor
 cxU|tabor
 cxH|tabor
 cxD|tabor
+xAr|skala
+xUr|skala
+xHr|skala
+xDr|skala
 

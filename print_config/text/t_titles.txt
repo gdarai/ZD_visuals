@@ -1,24 +1,24 @@
-AA|Král|lovu
+AA|Král lovu
 UU|Zhouba|nemrtvých
 HH|Lovec|čarodějů
 DD|Zaklínač|démonů
 AUH|Strážce|brány
 UHD|Ochránce|zvířat
 AHD|Průvodce|minulostí
-AUD|Lidový|hrdina
+AUD|Lidový hrdina
 AxA|Alfa|celé smečky
 UxU|Plenitel|nemrtvých
 HxH|Krotitel|magie
-DxD|Vůdce|tlupy
+DxD|Vůdce tlupy
 xAA|Drakobijec
 xUU|Pokořitel|licha
-xHH|Kat|čaroděje
+xHH|Kat čaroděje
 xDD|Vyzyvatel|Balroga
 cxA|Zapuditel|smečky
-cxU|Ten co|čistil hroby
+cxU|Kazatel|v zářící zbroji
 cxH|Zeď černé|magie
-cxD|Ten co|zavřel bránu
-xAr|Štváč|kořisti
+cxD|Klíčník|od brány pekla
+xAr|Štváč kořisti
 xUr|Zapuditel|nemrtvých
-xHr|Lovec|odměn
+xHr|Lovec odměn
 xDr|Vymítač|démonů
