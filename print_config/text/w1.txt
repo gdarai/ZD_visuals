@@ -24,3 +24,9 @@
 44|none|haiku_44|bow|
 45|none|haiku_45|bomb|
 46|none|haiku_46|bomb|
+73|none|haiku_73|bow|
+75|none|haiku_75|bow|
+43|none|haiku_43|spear|
+64|none|haiku_64|spear|
+66|none|haiku_66|bomb|
+

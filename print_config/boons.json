@@ -13,7 +13,7 @@
   },
   {
     "task": "FONT",
-    "name": "Weapon_Title",
+    "name": "Boon_Title",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#f1c100",
     "pointSize": 95,
@@ -21,23 +21,23 @@
   },
   {
     "task": "FONT",
-    "name": "Weapon_Type",
+    "name": "Boon_Type",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#d39be6",
-    "pointSize": 85,
-    "rowHeight": 75
-  },
-  {
-    "task": "FONT",
-    "name": "Weapon_Text",
-    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
-    "fill": "#cacaca",
-    "pointSize": 50,
+    "pointSize": 80,
     "rowHeight": 80
   },
   {
     "task": "FONT",
-    "name": "Weapon_ID",
+    "name": "Boon_Text",
+    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+    "fill": "#cacaca",
+    "pointSize": 50,
+    "rowHeight": 60
+  },
+  {
+    "task": "FONT",
+    "name": "Boon_ID",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#747474",
     "pointSize": 65,
@@ -45,89 +45,81 @@
   },
   {
     "task": "BUILD",
-    "name": "WeaponCard",
+    "name": "BoonCard",
     "elements": [
       {
-        "source": "wpn/[0].png",
-        "position": "+376+252"
+        "source": "boon/[2].png",
+        "position": "+95+263"
       },
       {
-        "source": "ico/Ico_w300_[3].png",
-        "position": "+159+412"
-      },
-      {
-        "source": "ico/Ico_fct_[3].png",
+        "source": "ico/Ico_spell_[1].png",
         "position": "+77+80"
       },
       {
-        "source": "ico/Ico_spell_[4].png",
-        "position": "+77+243"
-      },
-      {
-        "source": "img_txt/w_tit_[0].png",
+        "source": "img_txt/b_tit_[0].png",
         "position": "+281+78"
       },
       {
-        "source": "img_txt/w_mg_[1].png",
-        "position": "+73+524"
+        "source": "img_txt/b_typ_[1].png",
+        "position": "+66+808"
       },
       {
-        "source": "img_txt/w_txt_[2].png",
-        "position": "+66+633"
+        "source": "img_txt/b_txt_[1].png",
+        "position": "+66+880"
       },
       {
-        "source": "img_txt/w_id_[0].png",
-        "position": "+615+957"
+        "source": "img_txt/b_id_[0].png",
+        "position": "+590+970"
       },
       {
-        "source": "card/Weapon_Shadow.png",
+        "source": "card/Boon_Shadow.png",
         "position": "+0+0"
       }
     ]
   },
   {
     "task": "TEXTS",
-    "source": "text/w_titles.txt",
-    "target": "img_txt/w_tit",
-    "font": "Weapon_Title",
+    "source": "text/b_titles.txt",
+    "target": "img_txt/b_tit",
+    "font": "Boon_Title",
     "size": "466x190 xc:none",
     "gravity": "West",
     "firstIsName": true
   },
   {
     "task": "TEXTS",
-    "source": "text/w_IDs.txt",
-    "target": "img_txt/w_id",
-    "font": "Weapon_ID",
+    "source": "text/b_types.txt",
+    "target": "img_txt/b_typ",
+    "font": "Boon_Type",
+    "size": "690x80 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/b_IDs.txt",
+    "target": "img_txt/b_id",
+    "font": "Boon_ID",
     "size": "190x86 xc:none",
     "gravity": "Center",
     "firstIsName": true
   },
   {
     "task": "TEXTS",
-    "source": "text/w_magic.txt",
-    "target": "img_txt/w_mg",
-    "font": "Weapon_Type",
-    "size": "460x150 xc:none",
-    "gravity": "North",
-    "firstIsName": true
-  },
-  {
-    "task": "TEXTS",
-    "source": "text/w_texts.txt",
-    "target": "img_txt/w_txt",
-    "font": "Weapon_Text",
-    "size": "474x320 xc:none",
+    "source": "text/b_texts.txt",
+    "target": "img_txt/b_txt",
+    "font": "Boon_Text",
+    "size": "690x176 xc:none",
     "gravity": "North",
     "firstIsName": true
   },
   {
     "task": "CARDS",
-    "printLimit": -1,
-    "source": "text/w1.txt",
-    "base": "card/Weapon_BG.png",
+    "printLimit": 1,
+    "source": "text/b.txt",
+    "base": "card/Boon_BG.png",
     "target": "out/card_cut",
-    "build": "WeaponCard",
+    "build": "BoonCard",
     "crop": "750x1050+36+36"
   }
 ]
