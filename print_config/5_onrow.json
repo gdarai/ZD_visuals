@@ -1,0 +1,44 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out_5"
+  },
+  {
+    "task": "BUILD",
+    "name": "5_onRow",
+    "elements": [
+      {
+        "source": "out/card_cut_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "out/card_cut_[1].png",
+        "position": "+750+0"
+      },
+      {
+        "source": "out/card_cut_[2].png",
+        "position": "+1500+0"
+      },
+      {
+        "source": "out/card_cut_[3].png",
+        "position": "+2250+0"
+      },
+      {
+        "source": "out/card_cut_[4].png",
+        "position": "+3000+0"
+      }
+    ]
+  },
+ {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/5_onrow.txt",
+    "base": "3750x1050",
+    "target": "out_5/collector",
+    "build": "5_onRow"
+  }
+]

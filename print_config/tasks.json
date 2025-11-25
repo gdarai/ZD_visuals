@@ -169,8 +169,7 @@
     "printLimit": -1,
     "source": "text/t.txt",
     "base": "card/Task_BG.png",
-    "target": "out/card_cut",
-    "build": "TaskCard",
-    "crop": "750x1050+36+36"
+    "target": "out/b_card",
+    "build": "TaskCard"
   }
 ]

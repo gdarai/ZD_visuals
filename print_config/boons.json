@@ -115,7 +115,7 @@
   },
   {
     "task": "CARDS",
-    "printLimit": 1,
+    "printLimit": -1,
     "source": "text/b.txt",
     "base": "card/Boon_BG.png",
     "target": "out/card_cut",

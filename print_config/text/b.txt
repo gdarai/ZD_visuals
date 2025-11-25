@@ -17,4 +17,4 @@
 17|steal|17_SvitekKradeze
 18|steal|18_LektvarNeviditelnosti
 19|jump|19_PrstenTeleportace
-20|jump|20_KouzelnyKoberec
+20|jump|20_KouzelneBoty

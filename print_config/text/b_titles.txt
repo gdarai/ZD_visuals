@@ -4,7 +4,7 @@
 04|Glazura|králů
 05|Kouzlo|záměny
 06|Mlha|zmatení
-07|Přívěsek|iluze
+07|Přívěšek|iluze
 08|Svitek|jména
 09|Svitek|volání
 10|Prsten|vábení
@@ -15,6 +15,6 @@
 15|Rudá mlha
 16|Svitek|rychlosti
 17|Svitek|krádeže
-18|Lektvar|neviditelnosti
+18|Lektvar|zmizení
 19|Prsten|teleportace
 20|Kouzelné|škorně
