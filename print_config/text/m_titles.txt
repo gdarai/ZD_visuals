@@ -1,0 +1,14 @@
+Camp|Vesnice
+Rock|Skála
+Start|Start
+Fort|Hrad
+Teleport|Teleport
+Wpn_A|Kopí
+Wpn_U|Palice
+Wpn_H|Meč
+Wpn_D|Luk
+Wpn_AU|Kopí,Palice
+Wpn_UH|Palice,Meč
+Wpn_HD|Meč,Luk
+Wpn_DA|Luk,Kopí
+

@@ -1,0 +1,115 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "img_txt"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out"
+  },
+  {
+    "task": "FONT",
+    "name": "Dream_Title",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#362a19",
+    "pointSize": 95,
+    "rowHeight": 80
+  },
+  {
+    "task": "FONT",
+    "name": "Dream_Text",
+    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+    "fill": "#000000",
+    "pointSize": 50,
+    "rowHeight": 60
+  },
+  {
+    "task": "FONT",
+    "name": "Dream_ID",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#d1c8af",
+    "pointSize": 65,
+    "rowHeight": 90
+  },
+  {
+    "task": "BUILD",
+    "name": "DreamCard",
+    "elements": [
+      {
+        "source": "dream/[0].png",
+        "position": "+73+201"
+      },
+      {
+        "source": "ico/Ico_w300_[0].png",
+        "position": "+400+673"
+      },
+      {
+        "source": "ico/Ico_w300_[0].png",
+        "position": "+165+610"
+      },
+      {
+        "source": "img_txt/d_tit_[0].png",
+        "position": "+66+68"
+      },
+      {
+        "source": "img_txt/d_txt_[0].png",
+        "position": "+66+780"
+      },
+      {
+        "source": "img_txt/d_id_[0].png",
+        "position": "+610+970"
+      },
+      {
+        "source": "card/Dream_Shadow.png",
+        "position": "+0+0"
+      }
+    ]
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_titles.txt",
+    "target": "img_txt/d_tit",
+    "font": "Dream_Title",
+    "size": "690x155 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_IDs.txt",
+    "target": "img_txt/d_id",
+    "font": "Dream_ID",
+    "size": "190x86 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_texts.txt",
+    "target": "img_txt/d_txt",
+    "font": "Dream_Text",
+    "size": "690x176 xc:none",
+    "gravity": "North",
+    "firstIsName": true
+  },
+  {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/d.txt",
+    "base": "card/Dream_BG_g.png",
+    "target": "out/d_card",
+    "build": "DreamCard"
+  },
+  {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/d.txt",
+    "base": "card/Dream_BG.png",
+    "target": "out/d_card",
+    "build": "DreamCard"
+  }
+]

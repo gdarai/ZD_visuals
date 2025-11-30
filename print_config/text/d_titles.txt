@@ -1,0 +1,5 @@
+spear|Lovec
+hammer|Bijec
+sword|Šermíř
+bow|Lučišník
+

@@ -1,0 +1,5 @@
+spear|D01
+hammer|D02
+sword|D03
+bow|D04
+

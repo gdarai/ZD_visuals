@@ -126,8 +126,7 @@
     "printLimit": -1,
     "source": "text/w1.txt",
     "base": "card/Weapon_BG.png",
-    "target": "out/card_cut",
-    "build": "WeaponCard",
-    "crop": "750x1050+36+36"
+    "target": "out/w_card",
+    "build": "WeaponCard"
   }
 ]

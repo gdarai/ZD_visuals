@@ -1,0 +1,8 @@
+Light|Camp_1|Camp
+Light|Camp_2|Camp
+Light|Camp_3|Camp
+Light|Camp_4|Camp
+Light|Cross_1|Teleport|Rock_Teleport
+Light|Cross_2|Teleport|Rock_Teleport
+Light|Cross_3|Teleport|Rock_Teleport
+

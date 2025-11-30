@@ -39,7 +39,7 @@
     "task": "FONT",
     "name": "Boon_ID",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
-    "fill": "#747474",
+    "fill": "#74a5ad",
     "pointSize": 65,
     "rowHeight": 90
   },
@@ -118,8 +118,7 @@
     "printLimit": -1,
     "source": "text/b.txt",
     "base": "card/Boon_BG.png",
-    "target": "out/card_cut",
-    "build": "BoonCard",
-    "crop": "750x1050+36+36"
+    "target": "out/b_card",
+    "build": "BoonCard"
   }
 ]

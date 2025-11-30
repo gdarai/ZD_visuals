@@ -1,0 +1,121 @@
+[
+  {
+    "task": "SETUP",
+    "separator": "|"
+  },
+  {
+    "task": "CLEAN",
+    "target": "img_txt"
+  },
+  {
+    "task": "CLEAN",
+    "target": "out"
+  },
+  {
+    "task": "FONT",
+    "name": "Map_Black_M",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#000000",
+    "pointSize": 95,
+    "rowHeight": 95
+  },
+  {
+    "task": "FONT",
+    "name": "Map_Black_L",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#000000",
+    "pointSize": 150,
+    "rowHeight": 150
+  },
+  {
+    "task": "FONT",
+    "name": "Map_White_M",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#ffffff",
+    "pointSize": 95,
+    "rowHeight": 95
+  },
+  {
+    "task": "BUILD",
+    "name": "MapCard",
+    "elements": [
+      {
+        "source": "card/Map_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "map/[1].png",
+        "position": "+66+66"
+      },
+      {
+        "source": "map/[3].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "img_txt/m_tit_[2].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "ico/Ico_map_[2].png",
+        "position": "+302+451",
+        "centered": "true"
+      },
+      {
+        "source": "ico/Ico_w300w_[4].png",
+        "position": "+69+158"
+      },
+      {
+        "source": "ico/Ico_w300w_[5].png",
+        "position": "+428+158"
+      }
+    ]
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_titles.txt",
+    "target": "img_txt/m_tit",
+    "font": "Map_White_M",
+    "subset": "0:1",
+    "size": "603x204 xc:none",
+    "gravity": "South",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_titles.txt",
+    "target": "img_txt/m_tit",
+    "font": "Map_Black_M",
+    "subset": "1:2",
+    "size": "603x212 xc:none",
+    "gravity": "South",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_titles.txt",
+    "target": "img_txt/m_tit",
+    "font": "Map_Black_L",
+    "subset": "2:4",
+    "size": "603x212 xc:none",
+    "gravity": "South",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_titles.txt",
+    "target": "img_txt/m_tit",
+    "font": "Map_Black_M",
+    "subset": "4:50",
+    "size": "603x160 xc:none",
+    "gravity": "South",
+    "firstIsName": true
+  },
+  {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/m.txt",
+    "base": "603x603",
+    "target": "out/map",
+    "build": "MapCard"
+  }
+]

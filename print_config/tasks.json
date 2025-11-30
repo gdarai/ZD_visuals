@@ -169,7 +169,7 @@
     "printLimit": -1,
     "source": "text/t.txt",
     "base": "card/Task_BG.png",
-    "target": "out/b_card",
+    "target": "out/t_card",
     "build": "TaskCard"
   }
 ]

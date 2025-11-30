@@ -1,4 +1,4 @@
-hard|Po prvním|použití nezahazuj
+hard|Po prvním použití|zbraň nezahazuj
 anger|Zaútoč hned|i druhou zbraní
 swap|Prohoď se|s jiným hrdinou
 lure|Přilákej obludu|z jiného pole
