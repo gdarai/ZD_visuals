@@ -36,37 +36,57 @@
     "rowHeight": 95
   },
   {
+    "task": "FONT",
+    "name": "Map_ID_White",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#ffffff",
+    "pointSize": 50,
+    "rowHeight": 50
+  },
+  {
+    "task": "FONT",
+    "name": "Map_ID_Black",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#000000",
+    "pointSize": 50,
+    "rowHeight": 50
+  },
+  {
     "task": "BUILD",
     "name": "MapCard",
     "elements": [
       {
-        "source": "card/Map_[0].png",
+        "source": "card/Map_[1].png",
         "position": "+0+0"
       },
       {
-        "source": "map/[1].png",
+        "source": "map/[2].png",
         "position": "+66+66"
       },
       {
-        "source": "map/[3].png",
+        "source": "map/[4].png",
         "position": "+0+0"
       },
       {
-        "source": "img_txt/m_tit_[2].png",
+        "source": "img_txt/m_tit_[3].png",
         "position": "+0+0"
       },
       {
-        "source": "ico/Ico_map_[2].png",
+        "source": "ico/Ico_map_[3].png",
         "position": "+302+451",
         "centered": "true"
       },
       {
-        "source": "ico/Ico_w300w_[4].png",
+        "source": "ico/Ico_w300w_[5].png",
         "position": "+69+158"
       },
       {
-        "source": "ico/Ico_w300w_[5].png",
+        "source": "ico/Ico_w300w_[6].png",
         "position": "+428+158"
+      },
+      {
+        "source": "img_txt/m_ID_[0].png",
+        "position": "+69+477"
       }
     ]
   },
@@ -108,6 +128,26 @@
     "subset": "4:50",
     "size": "603x160 xc:none",
     "gravity": "South",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_IDs.txt",
+    "target": "img_txt/m_ID",
+    "font": "Map_ID_Black",
+    "subset": "0:23",
+    "size": "61x47 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/m_IDs.txt",
+    "target": "img_txt/m_ID",
+    "font": "Map_ID_White",
+    "subset": "23:50",
+    "size": "61x47 xc:none",
+    "gravity": "Center",
     "firstIsName": true
   },
   {

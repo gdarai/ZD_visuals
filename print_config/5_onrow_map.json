@@ -12,24 +12,24 @@
     "name": "5_onRow",
     "elements": [
       {
-        "source": "final/tasks/t_card_[0].png",
+        "source": "final/maps/map_[0].png",
         "position": "+0+0"
       },
       {
-        "source": "final/tasks/t_card_[1].png",
-        "position": "+822+0"
+        "source": "final/maps/map_[1].png",
+        "position": "+603+0"
       },
       {
-        "source": "final/tasks/t_card_[2].png",
-        "position": "+1644+0"
+        "source": "final/maps/map_[2].png",
+        "position": "+1206+0"
       },
       {
-        "source": "final/tasks/t_card_[3].png",
-        "position": "+2466+0"
+        "source": "final/maps/map_[3].png",
+        "position": "+1809+0"
       },
       {
-        "source": "final/tasks/t_card_[4].png",
-        "position": "+3288+0"
+        "source": "final/maps/map_[4].png",
+        "position": "+2412+0"
       }
     ]
   },
@@ -37,7 +37,7 @@
     "task": "CARDS",
     "printLimit": -1,
     "source": "text/5_onrow.txt",
-    "base": "4110x1122",
+    "base": "3015x603",
     "target": "out_5/collector",
     "build": "5_onRow"
   }
