@@ -9,9 +9,9 @@ AUD|Meč je můj štít,|ochráním tě, ať tma|či svit.
 AxA|Kroky s šelmou v horách znějí,|smečku vedu sněhem a tmou,|svahy pod námi se chvějí.
 UxU|Stíny padnou, duchové prchnou,|přináším konečnou zkázu všude,|kde nohy mé vpřed se pohnou.
 HxH|Meč skřípe v tichu kouzel noci,|jsem ochránce, věčný strážce,|svatyně s tajemnou mocí.
-DxD|Následuj mě plamenem noci,|jsem držitel pradávné moci.
+DxD|Démoni mě obestoupí,|však nepřelstí mě běsi hloupí.
 xAA|Kopí se zableskne, rudý drak supí,|v boji se mnou padne,|již slétají se k němu supi.
-xUU|Ohnivým lukem k srdci,|zasáhnu - A lich padá|pak ticho se snáší na krajinu.
+xUU|Ohnivým lukem k srdci,|zasáhnu - A lich padá,|pak ticho se snáší na krajinu.
 xHH|Mečem protnu temnou noc,|čaroděj už ztratil moc.
 xDD|Láva i oheň ustoupí mému kroku,|s palcátem čelím každému soku.
 cxA|Vlci prchají, tábor v klidu spí,|ochrana pevná v nelehkém čase.|Sen se jim zdá v barevné kráse.
@@ -20,6 +20,6 @@ cxH|Městská brána pevně stojí,|síla a magie v jedno se spojí.
 cxD|V žáru bitvy, když stvůry přichází,|krví nepřátel nový den kreslím.|Bráním hradby a běsy vyháním.
 xAr|Na svém oři statečně se ženu,|úderem silným pak protnu kořist,|konečně přichází čas se najíst.
 xUr|Na hřbitov vyrážím potají,|nemrtví přede mnou|do hrobů couvají.
-xHr|Psance čeká brzký pád,|ve dne v noci|za žold lovím tuze rád.
+xHr|Psance čeká brzký pád,|za žold lovím tuze rád.
 xDr|Na démony dlouhý bič,|s právem po boku.|Zlo odejde navždy pryč.
 

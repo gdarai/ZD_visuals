@@ -1,7 +1,7 @@
 lure|Kouzlo vábení
-anger|Kouzlo vztek
-swap|Kouzlo záměna
-hard|Kouzlo tvrdost
-steal|Kouzlo krádež
-jump|Kouzlo let
+anger|Kouzlo vzteku
+swap|Kouzlo záměny
+hard|Kouzlo tvrdosti
+steal|Kouzlo krádeže
+jump|Kouzlo létání
 

@@ -1,11 +1,11 @@
 01|Prášek|věčnosti
-02|Kámen věků
+02|Krystal|věků
 03|Svitek|odolnosti
 04|Glazura|králů
-05|Kouzlo|záměny
+05|Svitek|záměny
 06|Mlha|zmatení
-07|Přívěšek|iluze
-08|Svitek|jména
+07|Amulet|prohození
+08|Zrcadlový|svitek
 09|Svitek|volání
 10|Prsten|vábení
 11|Vyvolávací|kámen

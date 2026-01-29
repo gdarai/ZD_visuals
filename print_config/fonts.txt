@@ -1,0 +1,5 @@
+45 - usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf
+40 - usr/share/fonts/opentype/urw-base35/C059-Italic.otf
+50 - usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf
+50 - usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf
+50 - usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf

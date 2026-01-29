@@ -8,13 +8,13 @@ haiku_03|Trn hledá srdce,|touží bodnout hlouběji,|rudý opar zastře zrak,|d
 haiku_04|Ledový vítr,|šíp mizí v mlze,|mraky z oceli|rozetnou blesky.
 haiku_05|Jiskra padlé hvězdy,|žár dýchá v kleci,|tmu prořízne světlo,|nikdo nezvládne utéci.
 haiku_06|Křehký je osud,|když shoří naděje,|ticho se vytratí|a srdce se vzdá.
-haiku_11|Všepohltcující hrůza,|zrychlí dech a sváže mysl.|Odvaha ve mě vzrůstá,|zastaví démonů běh.
+haiku_11|Všepohltcující hrůza,|zrychlí dech, sváže mysl.|Odvaha ve mě vzrůstá,|zastaví démonů běh.
 haiku_12|Hrom otřese zemí,|hrot udává směr boje.|Zrůdy se zaženou|do hlubin, kam patří.
 haiku_13|Led ukrytý v trnu,|stíny tančí nocí,|záře roztrhne tmu,|a čas se zastaví.
 haiku_14|Zlo klesne na kolena,|přemožené nestrvůry|marně budou prosit,|hle, přichází jejich pád.
 haiku_15|Hrot pálí jak vina,|žár doprovází boj,|má cesta září jasně,|vše zakryje smrti závoj.
 haiku_22|Staré strachy promluví,|dozvuky minulosti|zavibrují a zamrznou,|teď se vše rozhodne. 
-haiku_23|Runy spletené z ticha,|zpečetěné na věčnost,|jen stíny a tvůj dech,|sám si píšu svůj osud.
+haiku_23|Runy spletené z ticha,|zpečetěné na věčnost,|jen stíny a můj dech,|sám si píšu svůj osud.
 haiku_24|Jak had jsem úskočný,|před tichým šipem|nepřijde varování|- zakousne se znenadání.
 haiku_25|Volání hlubin,|jsoucno se tříští,|život se láme,|mrtvo na bojišti.
 haiku_26|Smršť ohně a trnů,|nebe zadrží dech,|vítr rozsévá hněv,|pád je nevyhnutelný.
@@ -29,13 +29,14 @@ haiku_44|Slyš ticho věků,|hlas bez ozvěny,|já volám prázdno|a ono mi odpo
 haiku_45|Řetězy prasknou,|oheň se rozlije,|běsy se vyhrnou,|popel vše zakryje.
 haiku_46|Sféra vězní bouři,|hněv držený na řetězu,|obrátí se v plamen|a smrt v tanci krouží.
 haiku_51|Plamen líbá mráz,|žár v ledu spí,|úder tříští svět,|čas ztrácí vládu.
-haiku_52|Tmavé ostří šeptá,|potají sbírá sílu,|lebky v něm spí,|a duše křičí.
+haiku_52|Černé ostří šeptá,|potají sbírá sílu,|lebky v něm spí,|a duše křičí.
 haiku_53|Ledová záře|tančí na čepeli,|smrt v ostří spí,|v jediném úderu konec.
+haiku_53|Motýlí mávnutí,|jen drobný čin.|Zrod bouře vynutí,|povede k vítězství.
 haiku_54|Ledový dech|a srdce ze zlata.|Když se obnaží,|krev mrzne strachem.
-haiku_55|Černá ostrá čepel,|žár v ní dýchá,|v boji hořím jak oheň,|nepřátele obrátím v popel.
+haiku_55|Čekám vždy po ruce,|připraven zasáhnout,|v boji hořím jak oheň,|nepřátele obrátím v popel.
 haiku_62|Trůny se otřesou,|koruny ztrácí lesk,|rovnováha je vrtkavá|a majestát pomíjivý.
 haiku_63|Zlaté runy září,|meč v srdci nese|moudrost hvězd,|věčný ochránce bdí.
-haiku_64|Předci kráčí po boku,|hrot nalpní slib,|tíha rodu trvá,|dědictví neuhasne.
+haiku_64|Předci kráčí po boku,|vázáni pradávným slibem,|tíha rodu dál přetrvává,|dědictví neuhasne.
 haiku_65|Skrytý plameni,|jenž sevře dech,|rozsviť mou cestu,|než přijde konec.
 haiku_66|Vichr snese mstu,|plameny víří v jádru,|žár si hledá cestu,|zkáza zraje v pouzdru.
 haiku_71|Letím s větrem,|za sebou popel,|šíp je modlitba,|co pálí hříchy.

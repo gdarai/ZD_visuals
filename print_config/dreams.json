@@ -52,6 +52,11 @@
         "position": "+165+610"
       },
       {
+        "source": "ico/Ico_[1].png",
+        "centered": true,
+        "position": "+411+689"
+      },
+      {
         "source": "img_txt/d_tit_[0].png",
         "position": "+66+68"
       },
@@ -95,14 +100,6 @@
     "size": "690x176 xc:none",
     "gravity": "North",
     "firstIsName": true
-  },
-  {
-    "task": "CARDS",
-    "printLimit": -1,
-    "source": "text/d.txt",
-    "base": "card/Dream_BG_g.png",
-    "target": "out/d_card",
-    "build": "DreamCard"
   },
   {
     "task": "CARDS",

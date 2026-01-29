@@ -3,6 +3,10 @@ Rock|Skála
 Start|Start
 Fort|Hrad
 Teleport|Teleport
+Wpn_TA|Věž,Kopí
+Wpn_TU|Věž,Palice
+Wpn_TH|Věž,Meč
+Wpn_TD|Věž,Luk
 Wpn_A|Kopí
 Wpn_U|Palice
 Wpn_H|Meč

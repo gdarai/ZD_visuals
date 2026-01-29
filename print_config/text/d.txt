@@ -2,4 +2,4 @@ spear
 hammer
 sword
 bow
-
+hero|spec_town

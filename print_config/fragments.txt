@@ -1,0 +1,95 @@
+  {
+    "task": "FONT",
+    "name": "Weapon_Text",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#cacaca",
+    "pointSize": 60,
+    "rowHeight": 80
+  },
+  {
+    "task": "FONT",
+    "name": "Weapon_ID",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#747474",
+    "pointSize": 65,
+    "rowHeight": 90
+  },
+  {
+    "task": "BUILD",
+    "name": "WeaponCard",
+    "elements": [
+      {
+        "source": "wpn/[0].png",
+        "position": "+376+252"
+      },
+      {
+        "source": "ico/Ico_w300_[3].png",
+        "position": "+159+412"
+      },
+      {
+        "source": "ico/Ico_fct_[3].png",
+        "position": "+77+80"
+      },
+      {
+        "source": "ico/Ico_spell_[4].png",
+        "position": "+77+243"
+      },
+      {
+        "source": "img_txt/w_tit_[0].png",
+        "position": "+281+78"
+      },
+      {
+        "source": "img_txt/w_mg_[1].png",
+        "position": "+73+524"
+      },
+      {
+        "source": "img_txt/w_txt_[2].png",
+        "position": "+66+633"
+      },
+      {
+        "source": "img_txt/w_id_[0].png",
+        "position": "+615+957"
+      },
+      {
+        "source": "card/Weapon_Shadow.png",
+        "position": "+0+0"
+      }
+    ]
+  },
+  {
+    "task": "CARDS",
+    "printLimit": 2,
+    "source": "text/w1.txt",
+    "base": "card/Weapon_BG.png",
+    "target": "out/card",
+    "build": "WeaponCard",
+    "crop": "750x1050+36+36"
+  }
+
+
+  {
+    "task": "FONT",
+    "name": "Task_Text",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#000000",
+    "pointSize": 60,
+    "rowHeight": 60
+  },
+
+  {
+    "task": "CARDS",
+    "printLimit": 1,
+    "source": "text/t.txt",
+    "base": "card/Task_BG.png",
+    "target": "out/card_cut",
+    "build": "TaskCard",
+    "crop": "750x1050+36+36"
+  },
+  {
+    "task": "CARDS",
+    "printLimit": 1,
+    "source": "text/t.txt",
+    "base": "card/Task_BG_g.png",
+    "target": "out/card",
+    "build": "TaskCard"
+  }
