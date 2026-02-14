@@ -2,24 +2,24 @@ AA|Můj sál trofejí vyráží dech,|v očích medvědích plápolá vztek.
 UU|Nemrtvých stíny se|přede mnou sklánějí,|zpět do hrobů se tiše vracejí.
 HH|Meč můj v pekelném ohni se potí,|čaroděje smrtí jednou provždy|zkrotí.
 DD|Mečem píši znaky strasti,|démoni padají do mé pasti.
-AUH|Démon přec má u mě šanci,|zpět do temnot rodného ohně,|směrem já ho pošlu k tanci.
-UHD|Střežím fauny klid,|příroda není zlo,|žij a nech je žít.
-AHD|Knihy mi šeptají dávné příběhy,|rok za rokem tiše vypráví,|ztraceny ve stínech temnoty.
+AUH|Démon přec má u mě šanci,|zpět do ohně rodného,|posílám ho k tanci.
+UHD|Střežím fauny klid,|příroda není zlo,|žij a nech žít.
+AHD|Šepty starých knih,|příběhy dávné vypráví,|prachem času zaváté.
 AUD|Meč je můj štít,|ochráním tě, ať tma|či svit.
-AxA|Kroky s šelmou v horách znějí,|smečku vedu sněhem a tmou,|svahy pod námi se chvějí.
-UxU|Stíny padnou, duchové prchnou,|přináším konečnou zkázu všude,|kde nohy mé vpřed se pohnou.
-HxH|Meč skřípe v tichu kouzel noci,|jsem ochránce, věčný strážce,|svatyně s tajemnou mocí.
-DxD|Démoni mě obestoupí,|však nepřelstí mě běsi hloupí.
-xAA|Kopí se zableskne, rudý drak supí,|v boji se mnou padne,|již slétají se k němu supi.
-xUU|Ohnivým lukem k srdci,|zasáhnu - A lich padá,|pak ticho se snáší na krajinu.
-xHH|Mečem protnu temnou noc,|čaroděj už ztratil moc.
-xDD|Láva i oheň ustoupí mému kroku,|s palcátem čelím každému soku.
+AxA|Kroky šelem horami znějí,|smečku vedu sněhem a mlhou,|svahy pod námi se chvějí.
+UxU|Stíny padnou, duchové prchnou,|přináším konečnou zkázu všude,|kam nohy mé se pohnou.
+HxH|Čepel píše vzkaz,|jsem ochránce svatyně,|v níž zamrzl čas.
+DxD|Projdi výhní zlou,|jsem první stín, co v boji dlí,|tlupu vedu tmou.
+xAA|Kopí se blýská, rudý drak supí,|v boji se mnou padne,|již slétají se k němu supi.
+xUU|Ohnivým šípem srdce zasáhnu,|lich padá k zemi,|ticho klesá na krajinu.
+xHH|Ocel se leskla v mžik,|mág klečí v krvi,|dozněl jeho smích.
+xDD|Láva i oheň ustoupí mému kroku,|s odvahou čelím každému soku.
 cxA|Vlci prchají, tábor v klidu spí,|ochrana pevná v nelehkém čase.|Sen se jim zdá v barevné kráse.
-cxU|Kladivo v rukou boří smrti val,|do rána bude po všem.|Mezi náhrobky šířím jeho žár.
+cxU|Zbroj ve tmě září,|kladivo trestá a drtí,|věčný klid se k tobě vrátí.
 cxH|Městská brána pevně stojí,|síla a magie v jedno se spojí.
 cxD|V žáru bitvy, když stvůry přichází,|krví nepřátel nový den kreslím.|Bráním hradby a běsy vyháním.
-xAr|Na svém oři statečně se ženu,|úderem silným pak protnu kořist,|konečně přichází čas se najíst.
+xAr|Na svém oři statečně se ženu,|šípem přesným skolím kořist,|konečně přichází čas se najíst.
 xUr|Na hřbitov vyrážím potají,|nemrtví přede mnou|do hrobů couvají.
-xHr|Psance čeká brzký pád,|za žold lovím tuze rád.
-xDr|Na démony dlouhý bič,|s právem po boku.|Zlo odejde navždy pryč.
+xHr|Psance čeká brzký pád,|ve dne, v noci,|za žold lovím tuze rád.
+xDr|Na démony dlouhý bič,|s právem po boku,|zlo odejde navždy pryč.
 

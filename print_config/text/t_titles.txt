@@ -17,7 +17,7 @@ xDD|Vyzyvatel|Balroga
 cxA|Zapuditel|smečky
 cxU|Kazatel|v zářící zbroji
 cxH|Zeď černé|magie
-cxD|Klíčník|od brány pekla
+cxD|Klíčník od|brány pekla
 xAr|Štváč kořisti
 xUr|Zapuditel|nemrtvých
 xHr|Lovec odměn

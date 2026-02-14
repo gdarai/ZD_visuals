@@ -52,15 +52,15 @@
         "position": "+376+252"
       },
       {
-        "source": "ico/Ico_w300_[3].png",
+        "source": "ico/Ico_w300_[4].png",
         "position": "+159+412"
       },
       {
-        "source": "ico/Ico_fct_[3].png",
+        "source": "ico/Ico_fct_[4].png",
         "position": "+77+80"
       },
       {
-        "source": "ico/Ico_spell_[4].png",
+        "source": "ico/Ico_spell_[5].png",
         "position": "+77+243"
       },
       {
@@ -68,15 +68,15 @@
         "position": "+281+78"
       },
       {
-        "source": "img_txt/w_mg_[1].png",
+        "source": "img_txt/w_mg_[2].png",
         "position": "+73+524"
       },
       {
-        "source": "img_txt/w_txt_[2].png",
+        "source": "img_txt/w_txt_[3].png",
         "position": "+66+633"
       },
       {
-        "source": "img_txt/w_id_[0].png",
+        "source": "img_txt/w_id_[1].png",
         "position": "+615+957"
       },
       {
@@ -124,7 +124,7 @@
   {
     "task": "CARDS",
     "printLimit": -1,
-    "source": "text/w1.txt",
+    "source": "text/w.txt",
     "base": "card/Weapon_BG.png",
     "target": "out/w_card",
     "build": "WeaponCard"

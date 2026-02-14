@@ -40,28 +40,28 @@
     "name": "DreamCard",
     "elements": [
       {
-        "source": "dream/[0].png",
+        "source": "dream/[1].png",
         "position": "+73+201"
       },
       {
-        "source": "ico/Ico_w300_[0].png",
+        "source": "ico/Ico_w300_[1].png",
         "position": "+400+673"
       },
       {
-        "source": "ico/Ico_w300_[0].png",
+        "source": "ico/Ico_w300_[1].png",
         "position": "+165+610"
       },
       {
-        "source": "ico/Ico_[1].png",
+        "source": "ico/Ico_[2].png",
         "centered": true,
         "position": "+411+689"
       },
       {
-        "source": "img_txt/d_tit_[0].png",
+        "source": "img_txt/d_tit_[1].png",
         "position": "+66+68"
       },
       {
-        "source": "img_txt/d_txt_[0].png",
+        "source": "img_txt/d_txt_[1].png",
         "position": "+66+780"
       },
       {

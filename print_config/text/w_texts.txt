@@ -4,26 +4,26 @@ swap||Prohoď se|s jiným|hrdinou
 lure||Přilákej|obludu z|jiného pole
 steal||Zbraň si vem|z ruky hráče
 haiku_02|Dopadne úder,|nebe se trhá,|hory se hroutí,|bohové mlčí.
-haiku_03|Trn hledá srdce,|touží bodnout hlouběji,|rudý opar zastře zrak,|do noci se směji.
-haiku_04|Ledový vítr,|šíp mizí v mlze,|mraky z oceli|rozetnou blesky.
+haiku_03|Trn hledá srdce,|touží bodnout hlouběji,|rudý opar zastře zrak,|do prázdna se směji.
+haiku_04|Ledový vítr,|šíp mizí v mlze,|ocelová mračna|blesk rozsekl v půli.
 haiku_05|Jiskra padlé hvězdy,|žár dýchá v kleci,|tmu prořízne světlo,|nikdo nezvládne utéci.
-haiku_06|Křehký je osud,|když shoří naděje,|ticho se vytratí|a srdce se vzdá.
-haiku_11|Všepohltcující hrůza,|zrychlí dech, sváže mysl.|Odvaha ve mě vzrůstá,|zastaví démonů běh.
-haiku_12|Hrom otřese zemí,|hrot udává směr boje.|Zrůdy se zaženou|do hlubin, kam patří.
-haiku_13|Led ukrytý v trnu,|stíny tančí nocí,|záře roztrhne tmu,|a čas se zastaví.
+haiku_06|Křehký je osud,|když shoří naděje,|vše se vytratí,|pak srdce se vzdá.
+haiku_11|Všepohltcující je hrůza,|zrychlí dech, sváže mysl,|odvaha ve mě vzrůstá,|zastaví démonů běh.
+haiku_12|Hrom otřese zemí,|hrot udává směr,|stvůry se hroutí|do chřtánu hlubin.
+haiku_13|Led ukrytý v trnu,|stíny tančí nocí,|záře roztrhne tmu,|tep času zamrzá.
 haiku_14|Zlo klesne na kolena,|přemožené nestrvůry|marně budou prosit,|hle, přichází jejich pád.
 haiku_15|Hrot pálí jak vina,|žár doprovází boj,|má cesta září jasně,|vše zakryje smrti závoj.
 haiku_22|Staré strachy promluví,|dozvuky minulosti|zavibrují a zamrznou,|teď se vše rozhodne. 
-haiku_23|Runy spletené z ticha,|zpečetěné na věčnost,|jen stíny a můj dech,|sám si píšu svůj osud.
-haiku_24|Jak had jsem úskočný,|před tichým šipem|nepřijde varování|- zakousne se znenadání.
-haiku_25|Volání hlubin,|jsoucno se tříští,|život se láme,|mrtvo na bojišti.
+haiku_23|Paprsek spletený do run,|zpečetěný na věčnost,|jen stíny a můj dech,|sám si píšu svůj osud.
+haiku_24|Jako had jsem úskočný,|před tichým šipem,|nepřijde varování|a zakousne se znenadání.
+haiku_25|Volání hlubin,|jsoucno se tříští,|život se láme,|mrtvo je na bojišti.
 haiku_26|Smršť ohně a trnů,|nebe zadrží dech,|vítr rozsévá hněv,|pád je nevyhnutelný.
-haiku_31|Slyš oslavnou hymnu,|chorál zní k výšinám.|Pozvedni svoji zbraň,|nemrtví mizí v bázni.
-haiku_32|Volám tě, stíne,|přines mi sílu.|Klid své duše|vykoupím krví.
-haiku_33|Blesk se ze tmy zjeví,|hrom zazní jak zpěv,|palice se uklání|a úder propustí hněv.
-haiku_34|Vzplane rudé světlo.|Luna se napije krve,|do tmy směle vkročim,|nad nocí teď vládnu.
-haiku_35|Ve tmě zazáří,|krev hučí v kameni,|strach se zhmotní,|přede mnou není úkrytu.
-haiku_42|Ocel a pradávné runy,|nesmírná je síla slov,|moudrost a umění války|vše v prach obrátí.
+haiku_31|Slyš oslavnou hymnu,|chorál zní k výšinám,|pozvedni svoji zbraň,|nemrtví mizí v bázni.
+haiku_32|Volám tě, stíne,|přines mi sílu,|klid své duše|vykoupím krví.
+haiku_33|Blesk se ze tmy zjeví,|hrom zazní jako zpěv,|palice se uklání|a úder propustí hněv.
+haiku_34|Vzplane rudé světlo,|luna se napije krve,|do tmy směle vkročím,|nad nocí teď vládnu.
+haiku_35|Ve slepé hodině zazářím,|v kameni pulzuje krev,|strach se zhmotní,|přede mnou není úkrytu.
+haiku_42|Ocel a pradávné runy,|nesmírná je síla slov,|moudrost a umění války|vše ve zmar obrátí.
 haiku_43|Závoj klesne níže,|jasný křišťál zašeptá,|kreslí chladný tah,|zima přijde blíže.
 haiku_44|Slyš ticho věků,|hlas bez ozvěny,|já volám prázdno|a ono mi odpoví. 
 haiku_45|Řetězy prasknou,|oheň se rozlije,|běsy se vyhrnou,|popel vše zakryje.

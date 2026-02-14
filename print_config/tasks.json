@@ -77,6 +77,24 @@
   },
   {
     "task": "BUILD",
+    "name": "CombineW",
+    "elements": [
+      {
+        "source": "ico/Ico_s_[0].png",
+        "position": "+0+0"
+      },
+      {
+        "source": "ico/Ico_s_[1].png",
+        "position": "+0+60"
+      },
+      {
+        "source": "ico/Ico_s_[2].png",
+        "position": "+0+120"
+      }
+    ]
+  },
+  {
+    "task": "BUILD",
     "name": "TaskCard",
     "elements": [
       {
@@ -107,6 +125,10 @@
       {
         "source": "card/Task_Shadow.png",
         "position": "+0+0"
+      },
+      {
+        "source": "img_txt/ico_w_[0].png",
+        "position": "+36+70"
       }
     ]
   },
@@ -127,6 +149,24 @@
     "target": "img_txt/ico",
     "firstIsName": true,
     "build": "Combine3"
+  },
+  {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/t_ico2.txt",
+    "base": "120x240",
+    "target": "img_txt/ico_w",
+    "firstIsName": true,
+    "build": "CombineW"
+  },
+  {
+    "task": "CARDS",
+    "printLimit": -1,
+    "source": "text/t_ico3.txt",
+    "base": "180x360",
+    "target": "img_txt/ico_w",
+    "firstIsName": true,
+    "build": "CombineW"
   },
   {
     "task": "TEXTS",
@@ -167,6 +207,7 @@
   {
     "task": "CARDS",
     "printLimit": -1,
+    "subset": "0:50",
     "source": "text/t.txt",
     "base": "card/Task_BG.png",
     "target": "out/t_card",

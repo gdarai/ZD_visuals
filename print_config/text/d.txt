@@ -1,5 +1,8 @@
-spear
-hammer
-sword
-bow
-hero|spec_town
+01|spear
+02|hammer
+03|sword
+04|bow
+05|hero|spec_town
+06|hero|spec_town
+07|hero|spec_town
+08|hero|spec_town
