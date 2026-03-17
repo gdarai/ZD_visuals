@@ -1,0 +1,2 @@
+povolani|Povolání|Drž tyto 2 zbraně
+epic|Karta EPIC|Splň úkol z ruky

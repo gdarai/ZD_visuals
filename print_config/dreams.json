@@ -29,6 +29,14 @@
   },
   {
     "task": "FONT",
+    "name": "Dream_Type",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#47331d",
+    "pointSize": 80,
+    "rowHeight": 90
+  },
+  {
+    "task": "FONT",
     "name": "Dream_ID",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#d1c8af",
@@ -40,28 +48,15 @@
     "name": "DreamCard",
     "elements": [
       {
-        "source": "dream/[1].png",
-        "position": "+73+201"
+        "source": "dream/[2].png",
+        "position": "+73+171"
       },
       {
-        "source": "ico/Ico_w300_[1].png",
-        "position": "+400+673"
+        "source": "img_txt/d_tit_[2].png",
+        "position": "+66+58"
       },
       {
-        "source": "ico/Ico_w300_[1].png",
-        "position": "+165+610"
-      },
-      {
-        "source": "ico/Ico_[2].png",
-        "centered": true,
-        "position": "+411+689"
-      },
-      {
-        "source": "img_txt/d_tit_[1].png",
-        "position": "+66+68"
-      },
-      {
-        "source": "img_txt/d_txt_[1].png",
+        "source": "img_txt/d_txt_[2].png",
         "position": "+66+780"
       },
       {
@@ -69,8 +64,28 @@
         "position": "+610+970"
       },
       {
+        "source": "img_txt/d_typ_[1].png",
+        "position": "+66+570"
+      },
+      {
         "source": "card/Dream_Shadow.png",
         "position": "+0+0"
+      },
+      {
+        "source": "ico/Ico_w300wr_[2].png",
+        "position": "+64+223"
+      },
+      {
+        "source": "ico/Ico_[3].png",
+        "position": "+64+223"
+      },
+      {
+        "source": "ico/Ico_w300w_[2].png",
+        "position": "+659+223"
+      },
+      {
+        "source": "ico/Ico_[4].png",
+        "position": "+642+223"
       }
     ]
   },
@@ -99,6 +114,15 @@
     "font": "Dream_Text",
     "size": "690x176 xc:none",
     "gravity": "North",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_types.txt",
+    "target": "img_txt/d_typ",
+    "font": "Dream_Type",
+    "size": "690x180 xc:none",
+    "gravity": "Center",
     "firstIsName": true
   },
   {

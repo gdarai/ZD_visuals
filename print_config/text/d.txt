@@ -1,8 +1,8 @@
-01|spear
-02|hammer
-03|sword
-04|bow
-05|hero|spec_town
-06|hero|spec_town
-07|hero|spec_town
-08|hero|spec_town
+01|povolani|spear
+02|povolani|hammer
+03|povolani|sword
+04|povolani|bow
+05|epic|hero|s_spec_town
+06|epic|hero|s_spec_town
+07|epic|hero|s_spec_town
+08|epic|hero|s_spec_town
