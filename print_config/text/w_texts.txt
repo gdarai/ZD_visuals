@@ -1,8 +1,8 @@
-hard||Po prvním|použití|nezahazuj
+hard||Po prvním|použití zbraň|nezahazuj
 anger||Zaútoč hned|i druhou|zbraní
-swap||Prohoď se|s jiným|hrdinou
-lure||Přilákej|obludu z|jiného pole
-steal||Zbraň si vem|z ruky hráče
+swap||Před útokem|se prohoď|s jiným hrdinou
+lure||Přilákej příšeru|z jiného|pole mapy
+steal||Novou zbraň|si pak vem|z ruky hráče
 haiku_02|Dopadne úder,|nebe se trhá,|hory se hroutí,|bohové mlčí.
 haiku_03|Trn hledá srdce,|touží bodnout hlouběji,|rudý opar zastře zrak,|do prázdna se směji.
 haiku_04|Ledový vítr,|šíp mizí v mlze,|ocelová mračna|blesk rozsekl v půli.
@@ -15,7 +15,7 @@ haiku_14|Zlo klesne na kolena,|přemožené nestrvůry|marně budou prosit,|hle,
 haiku_15|Hrot pálí jak vina,|žár doprovází boj,|má cesta září jasně,|vše zakryje smrti závoj.
 haiku_22|Staré strachy promluví,|dozvuky minulosti|zavibrují a zamrznou,|teď se vše rozhodne. 
 haiku_23|Paprsek spletený do run,|zpečetěný na věčnost,|jen stíny a můj dech,|sám si píšu svůj osud.
-haiku_24|Jako had jsem úskočný,|před tichým šipem,|nepřijde varování|a zakousne se znenadání.
+haiku_24|Jako had jsem úskočný,|před tichým šipem,|nepřijde varování|a uštkne znenadání.
 haiku_25|Volání hlubin,|jsoucno se tříští,|život se láme,|mrtvo je na bojišti.
 haiku_26|Smršť ohně a trnů,|nebe zadrží dech,|vítr rozsévá hněv,|pád je nevyhnutelný.
 haiku_31|Slyš oslavnou hymnu,|chorál zní k výšinám,|pozvedni svoji zbraň,|nemrtví mizí v bázni.

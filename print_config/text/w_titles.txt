@@ -58,3 +58,36 @@
 74|Větrnné|srdce
 75|Trn|věčnosti
 76|Struna|prázdnoty
+02a|Plamenný|polibek
+03a|Zářící srp
+04a|Soumračný|zmar
+07a|Úlomek|titána
+08a|Trhlina|orkánu
+09a|Nářek|krve
+10a|Pekelný|hrot
+16a|Noční trn
+22a|Špičák|zatracení
+23a|Drakomor
+24a|Šepot|temnoty
+27a|Hněv hvězdy
+28a|Úlomek|zmaru
+29a|Duše chtíče
+30a|Zlost|úsvitu
+36a|Onyxový|štít
+42a|Zemětřas
+43a|Ledový kel
+44a|Měsíční|zkáza
+47a|Věčný břit
+48a|Párač duší
+49a|Osvícené|ostří
+50a|Čepel|valkýry
+56a|Párač|wyrmu
+62a|Ledový|úder
+63a|Čepel|podsvětí
+64a|Zvěst|zlomu
+67a|Přísaha|proroka
+68a|Šeptající|vánek
+69a|Nefritová|jitřenka
+70a|Vidina|zkázy
+76a|Záblesk|pomsty
+

@@ -1,7 +1,7 @@
 hard|Po prvním použití|zbraň nezahazuj
 anger|Zaútoč hned|i druhou zbraní
-swap|Prohoď se|s jiným hrdinou
-lure|Přilákej obludu|z jiného pole
-steal|Zbraň si vem|z ruky hráče
-jump|Přejdi|přes hory
+swap|Před útokem se prohoď|s jiným hrdinou
+lure|Přilákej příšeru|z jiného pole
+steal|Novou zbraň si pak|vem z ruky hráče
+jump|Zaútoč přechodem|přes hřeben hor
 
