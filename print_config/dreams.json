@@ -37,6 +37,22 @@
   },
   {
     "task": "FONT",
+    "name": "Dream_Desc",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#47331d",
+    "pointSize": 65,
+    "rowHeight": 90
+  },
+  {
+    "task": "FONT",
+    "name": "Dream_Hint",
+    "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
+    "fill": "#47331d",
+    "pointSize": 45,
+    "rowHeight": 50
+  },
+  {
+    "task": "FONT",
     "name": "Dream_ID",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#d1c8af",
@@ -57,7 +73,7 @@
       },
       {
         "source": "img_txt/d_txt_[2].png",
-        "position": "+66+780"
+        "position": "+66+800"
       },
       {
         "source": "img_txt/d_id_[0].png",
@@ -65,27 +81,28 @@
       },
       {
         "source": "img_txt/d_typ_[1].png",
-        "position": "+66+570"
+        "position": "+66+560"
+      },
+      {
+        "source": "img_txt/d_desc_[2].png",
+        "position": "+66+630"
+      },
+      {
+        "source": "img_txt/d_hint_[2].png",
+        "position": "+66+988"
       },
       {
         "source": "card/Dream_Shadow.png",
         "position": "+0+0"
       },
       {
-        "source": "ico/Ico_w300wr_[2].png",
+        "source": "ico/[4].png",
         "position": "+64+223"
       },
       {
-        "source": "ico/Ico_[3].png",
-        "position": "+64+223"
-      },
-      {
-        "source": "ico/Ico_w300w_[2].png",
-        "position": "+659+223"
-      },
-      {
-        "source": "ico/Ico_[4].png",
-        "position": "+642+223"
+        "source": "ico/[3].png",
+        "position": "+411+749",
+        "centered": true
       }
     ]
   },
@@ -120,14 +137,34 @@
     "task": "TEXTS",
     "source": "text/d_types.txt",
     "target": "img_txt/d_typ",
+    "subset": "0:2",
     "font": "Dream_Type",
-    "size": "690x180 xc:none",
+    "size": "690x90 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_types.txt",
+    "target": "img_txt/d_desc",
+    "subset": "2:7",
+    "font": "Dream_Desc",
+    "size": "690x90 xc:none",
+    "gravity": "Center",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "source": "text/d_types.txt",
+    "target": "img_txt/d_hint",
+    "subset": "7:10",
+    "font": "Dream_Hint",
+    "size": "690x50 xc:none",
     "gravity": "Center",
     "firstIsName": true
   },
   {
     "task": "CARDS",
-    "printLimit": -1,
     "source": "text/d.txt",
     "base": "card/Dream_BG.png",
     "target": "out/d_card",

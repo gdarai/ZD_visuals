@@ -1,2 +1,8 @@
-povolani|Povolání|Drž tyto 2 zbraně
-epic|Karta EPIC|Splň úkol z ruky
+povolani|Povolání
+epic|Karta EPIC
+spear|Na ruce držíš 2 kopí
+hammer|Na ruce držíš 2 palice
+sword|Na ruce držíš 2 meče
+bow|Na ruce držíš 2 luky
+hero|Splň úkol z ruky*
+hero|*Ne povolání

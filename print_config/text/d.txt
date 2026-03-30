@@ -1,8 +1,8 @@
-01|povolani|spear
-02|povolani|hammer
-03|povolani|sword
-04|povolani|bow
-05|epic|hero|s_spec_town
-06|epic|hero|s_spec_town
-07|epic|hero|s_spec_town
-08|epic|hero|s_spec_town
+01|povolani|spear|Ico_w300_spear|Ico_w300wr_spear
+02|povolani|hammer|Ico_w300_hammer|Ico_w300wr_hammer
+03|povolani|sword|Ico_w300_sword|Ico_w300wr_sword
+04|povolani|bow|Ico_w300_bow|Ico_w300wr_bow
+05|epic|hero|Ico_s_spec_town|Ico_s_spec_town
+06|epic|hero|Ico_s_spec_town|Ico_s_spec_town
+07|epic|hero|Ico_s_spec_town|Ico_s_spec_town
+08|epic|hero|Ico_s_spec_town|Ico_s_spec_town
