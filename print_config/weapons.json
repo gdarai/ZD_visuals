@@ -37,6 +37,14 @@
   },
   {
     "task": "FONT",
+    "name": "Weapon_Haiku",
+    "source": "usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+    "fill": "#e3aff5",
+    "pointSize": 50,
+    "rowHeight": 80
+  },
+  {
+    "task": "FONT",
     "name": "Weapon_ID",
     "source": "usr/share/fonts/truetype/fonts-yrsa-rasa/Yrsa-MediumItalic.ttf",
     "fill": "#747474",
@@ -48,19 +56,24 @@
     "name": "WeaponCard",
     "elements": [
       {
+        "source": "ico/Ico_spell_noHard.png",
+        "position": "+646+847",
+        "onlyIf": 7
+      },
+      {
         "source": "wpn/[0].png",
         "position": "+376+252"
       },
       {
-        "source": "ico/Ico_w300_[4].png",
+        "source": "ico/Ico_w300_[5].png",
         "position": "+159+412"
       },
       {
-        "source": "ico/Ico_fct_[4].png",
+        "source": "ico/Ico_fct_[5].png",
         "position": "+77+80"
       },
       {
-        "source": "ico/Ico_spell_[5].png",
+        "source": "ico/Ico_spell_[6].png",
         "position": "+77+243"
       },
       {
@@ -74,6 +87,10 @@
       {
         "source": "img_txt/w_txt_[3].png",
         "position": "+66+633"
+      },
+      {
+        "source": "img_txt/w_txt_[4].png",
+        "position": "+66+580"
       },
       {
         "source": "img_txt/w_id_[1].png",
@@ -114,9 +131,20 @@
   },
   {
     "task": "TEXTS",
+    "subset": "0:5",
     "source": "text/w_texts.txt",
     "target": "img_txt/w_txt",
     "font": "Weapon_Text",
+    "size": "474x320 xc:none",
+    "gravity": "North",
+    "firstIsName": true
+  },
+  {
+    "task": "TEXTS",
+    "subset": "5:50",
+    "source": "text/w_texts.txt",
+    "target": "img_txt/w_txt",
+    "font": "Weapon_Haiku",
     "size": "474x320 xc:none",
     "gravity": "North",
     "firstIsName": true

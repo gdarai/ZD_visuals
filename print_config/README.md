@@ -52,9 +52,11 @@ The input JSON file is an array of task objects. Each task must have a `task` fi
   - `source` (string): Path template for the image (use `[0]`, `[1]`, ... for placeholders).
   - `position` (string): Offset for placement (e.g., `+20+20`).
   - `centered` (bool, optional): Center the element at the position (default: false).
+  - `onlyIf` (int, optional): Column index to check. If the value at this index is empty, `0`, or `false` (case-insensitive), the element is skipped.
 
 ### TEXTS
 - `source` (string): Path to the input text file.
+- `subset` (string, optional): Restrict which lines should be printed. (e.g. `0:5` print first five, `0:-2` print all but last two).
 - `target` (string): Output image prefix/directory.
 - `font` (string): Registered font name.
 - `size` (string): Image size and background (e.g., `300x100 xc:none`).
@@ -62,11 +64,13 @@ The input JSON file is an array of task objects. Each task must have a `task` fi
 - `gravity` (string, optional): Setup how the text should be placed in the image (West, NorthWest, default: Center).
 
 ### CARDS
-- `source` (string): Path to the input data file (text, separated by `separator`).
+- `source` (string): Path to the input data file (text, separated by `separator`). Can be also string '999x999' which will create a new image of the given size for you.
+- `subset` (string, optional): Restrict which lines should be printed. (e.g. `0:5` print first five, `0:-2` print all but last two).
 - `base` (string): Path to the base image for composition.
 - `target` (string): Output image prefix/directory.
 - `build` (string): Registered build name to use for composition.
 - `crop` (string, optional): Crop geometry string (e.g., `"10x20+50+100"`). If present, the output image will be cropped to this rectangle using ImageMagick. If not present, no cropping is performed.
+- `firstIsName` (bool, optional): Use the first field as the output file name (default: false).
 
 ## Example guide.json
 ```json
@@ -83,7 +87,7 @@ The input JSON file is an array of task objects. Each task must have a `task` fi
   { "task": "TEXTS", "source": "text/texts.txt", "target": "img/texts", "font": "DejaVu-32", "size": "300x200 xc:none" },
   { "task": "TEXTS", "source": "text/values.txt", "target": "img/values", "font": "DejaVu-32", "firstIsName": true, "size": "300x100 xc:none" },
   { "task": "CARDS", "source": "src/cards.txt", "base": "src/card.png", "target": "out/card", "build": "ExampleBuild" },
-  { "task": "CARDS", "source": "src/cards.txt", "base": "src/card.png", "target": "out/card-crop", "build": "ExampleBuild", "crop": "10x20+50+100" }
+  { "task": "CARDS", "source": "src/cards.txt", "base": "src/card.png", "subset": "0:-1", "target": "out/card-crop", "build": "ExampleBuild", "crop": "10x20+50+100" }
 ]
 ```
 

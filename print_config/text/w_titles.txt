@@ -4,7 +4,7 @@
 05|Hvězdný|oheň
 06|Střep|beznaděje
 07|Popelavý|tesák
-08|Tkalec|stínů
+08|Tkadlec|stínů
 09|Volání|prázdnoty
 10|Krystalický|hrot
 11|Kopí hrůzy
